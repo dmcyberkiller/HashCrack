@@ -1,6 +1,6 @@
 # HashCrack by 🇮🇳 dmcyberkiller
 
-# This is the wordlist for cracking the Hashes. This is a simple wordlist 🕵🏿.
+## This is the wordlist for cracking the Hashes. This is a simple wordlist 🕵🏿.
 
 ## How to use/ Clone:-🌹
 Very simple just copy the code and in terminal just type "git clone and paste the link which you copied"
